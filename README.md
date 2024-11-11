@@ -1,6 +1,6 @@
 # 🤖 No Nullsense Nvidia: Physical AI Development
 
-[![Project Banner/Logo](./NoNullsense-NvidiaAI-Banner.png)](link-to-your-youtube-series)
+[![Project Banner/Logo](./NoNullsense-Nvidia-Banner.png)](link-to-your-youtube-series)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## The No Nullsense Guarantee
